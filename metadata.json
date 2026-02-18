@@ -1,0 +1,5 @@
+{
+  "name": "HexaView 3D",
+  "description": "A professional 3D model viewer featuring a main interactive viewport and 6 simultaneous fixed-perspective projections.",
+  "requestFramePermissions": []
+}
